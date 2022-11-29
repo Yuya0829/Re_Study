@@ -2,4 +2,4 @@ HTML/CSS
 
 Ruby
 
-Java
+Java (Progate)
