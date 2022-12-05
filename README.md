@@ -1,5 +1,7 @@
-HTML/CSS
+Study menu
 
-Ruby
+- HTML/CSS (Re:study)
 
-Java (Progate)
+- Ruby (Re:study)
+
+- Java (Progate)
